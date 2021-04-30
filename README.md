@@ -1,5 +1,12 @@
 # Hogwarts: The React app for fans of prize-winning pigs
 
+- Sorting
+- filter 
+- "some long key": value
+- controlled inputs
+
+
+
 ## React Week 1 Project
 
 ## Deliverables

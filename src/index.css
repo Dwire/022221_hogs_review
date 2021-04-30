@@ -18,6 +18,10 @@ body {
   transform: scale(1.5);
 }
 
+.tile-img {
+  width: 100%;
+}
+
 .navWrapper {
   margin-bottom: 2%;
 }
